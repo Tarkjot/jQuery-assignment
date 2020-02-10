@@ -1,0 +1,56 @@
+/* table,
+th,
+td {
+  border: 1px solid grey;
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 5px;
+} */
+button {
+  text-transform: uppercase;
+  background-color: #007acc;
+  border-radius: 5px;
+  color: white;
+  padding: 15px;
+}
+button:hover {
+  opacity: 75%;
+}
+li {
+  list-style-type: none;
+  padding: 15px;
+}
+#Container {
+  text-align: center;
+}
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid grey;
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 5px;
+  width: 250px;
+}
+input {
+  width: 250px;
+  border-radius: 5px;
+  border-color: grey;
+  padding: 10px;
+  background-color: lightgray;
+}
+input.checkbox {
+  width: 50px;
+  border-color: grey;
+  background-color: lightgray;
+}
+textarea {
+  border-radius: 5px;
+  border-color: grey;
+  width: 250px;
+  height: 100px;
+  padding: 10px;
+  font: 20px/28px "Open Sans", sans-serif;
+  letter-spacing: 1px;
+  background-color: lightgray;
+}
